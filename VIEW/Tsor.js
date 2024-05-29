@@ -8,7 +8,9 @@ export default class Tsor {
         this.#szuloElem = szuloElem;
         this.#torlesElem = torlesElem;
         this.#sorokLetrehozasa();
-        console.log(this.#szuloElem)
+        console.log(this.#szuloElem);
+        /*eseményt irunk a töröl gombra*/
+        this.#torlesElem=this.#szuloElem.children("tr:last-child").children("td").children(".torol")
     }
 
     #sorokLetrehozasa() {
