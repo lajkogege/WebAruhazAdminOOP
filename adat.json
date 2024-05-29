@@ -1,70 +1,46 @@
 {
-    "emberekLISTA": [
-        {
-            "id": "1",
-            "nev": "Éva",
-            "kor": 12,
-            "nem": true
-        },
-        {
-            "id": "2",
-            "nev": "Zita",
-            "kor": 22,
-            "nem": true
-        },
-        {
-            "id": "3",
-            "nev": "Ákos",
-            "kor": 21,
-            "nem": false
-        },
-        {
-            "id": "4",
-            "nev": "Attila",
-            "kor": 55,
-            "nem": false
-        },
-        {
-            "id": "5",
-            "nev": "Péter",
-            "kor": 12,
-            "nem": false
-        },
-        {
-            "id": "6",
-            "nev": "Viki",
-            "kor": "12",
-            "nem": true
-        },
-        {
-            "id": "7",
-            "nev": "Viki",
-            "kor": "12",
-            "nem": true
-        },
-        {
-            "id": "8",
-            "nev": "Viki",
-            "kor": "12",
-            "nem": true
-        },
-        {
-            "id": "9",
-            "nev": "Viki",
-            "kor": "12",
-            "nem": true
-        },
-        {
-            "id": "10",
-            "nev": "Viki",
-            "kor": "12",
-            "nem": true
-        },
-        {
-            "id": "11",
-            "nev": "Zizi",
-            "kor": "12",
-            "nem": true
-        }
-    ]
+  "emberekLISTA": [
+    {
+      "id": "2",
+      "nev": "Zita",
+      "kor": 22,
+      "nem": true
+    },
+    {
+      "id": "3",
+      "nev": "Ákos",
+      "kor": 21,
+      "nem": false
+    },
+    {
+      "id": "4",
+      "nev": "Attila",
+      "kor": 55,
+      "nem": false
+    },
+    {
+      "id": "5",
+      "nev": "Péter",
+      "kor": 12,
+      "nem": false
+    },
+    {
+      "id": "6",
+      "nev": "Viki",
+      "kor": "12",
+      "nem": true
+    },
+    {
+      "id": "7",
+      "nev": "Viki",
+      "kor": "12",
+      "nem": true
+    },
+    {
+      "id": "8",
+      "nev": "Viki",
+      "kor": "12",
+      "nem": true
+    }
+  ]
 }

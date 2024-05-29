@@ -9,3 +9,10 @@ function megjlenit(LISTA) {
     console.log(LISTA);
     new Tablazat(LISTA, $(".tablazat"));
 }
+
+/*Itt tudunk törölnni*/
+/*Fel kell íratkozni a töröl eseményre*/
+$(window).on("torol", (event) => {
+    console.log(event.detail);
+    DS.deleteAdat("http://localhost:3000/emberekLISTA", event.detail)
+})
